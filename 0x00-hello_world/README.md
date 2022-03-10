@@ -4,3 +4,4 @@
 3. Script that compiles a C file and creates an executable file called cisfun.
 4. C program that prints exactly "Programming is like building a multilingual puzzle", followed by a new line.
 5. C program that prints exactly with proper grammer, but the outcome is a piece of art.
+6. C program that prints the size of various types on the computer it is compiled and run on.
