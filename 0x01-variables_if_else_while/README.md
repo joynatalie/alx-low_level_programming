@@ -3,3 +3,4 @@
 2. Program that prints the alphabet in lowercase, followed by a new line.
 3. Program that prints the alphabet in lowercase, and then in uppercase.
 4. Program that prints the alphabet in lowercase followed by a new line.
+5. Program that prints all single digit numbers of base 10 starting from 0, followed by a new line.
