@@ -6,3 +6,4 @@
 5. Program that prints all single digit numbers of base 10 starting from 0, followed by a new line.
 6. Program that prints all single digit numbers of base 10 starting from 0, followed by a new line.
 7. Prints the lowercase alphabet in reverse.
+8. Prints all the numbers of base 16 in lowercase.
