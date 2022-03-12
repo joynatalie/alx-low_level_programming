@@ -10,3 +10,4 @@
 9. Prints all possible combinations of single digit numbers.
 11. Prints all possible combinations of 3 different digits, in ascending order, separated by a comma followed by a space.
 10. Prints all possible combinations of 2 different digits, in ascending order, separated by a comma followed by a space.
+12. Prints all possible combinations of two 2-digit numbers, ranging from 0-99, separated by a comma followed by a space.
