@@ -8,3 +8,4 @@
 7. Prints the lowercase alphabet in reverse.
 8. Prints all the numbers of base 16 in lowercase.
 9. Prints all possible combinations of single digit numbers.
+11. Prints all possible combinations of 3 different digits, in ascending order, separated by a comma followed by a space.
