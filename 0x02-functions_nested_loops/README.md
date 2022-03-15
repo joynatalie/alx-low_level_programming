@@ -12,3 +12,4 @@ Task10: Function that adds 2 integers and returns the result.
 Task11: Function that prints all natural numbers from n to 98, followed by a new line.
 Task12: Function that prints the n times table, starting with zero.
 Task 13: Program that computes and prints the sum of all the multiples of 3 and 5 bellow 1024 followed by a new line.
+Task 14: Program that prints the first 50 fibonacci numbers, starting with 1 and 2, followed by a new line.
