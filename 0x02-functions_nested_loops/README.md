@@ -11,3 +11,4 @@ Task9: Function that prints the 9 times table, starting with 0.
 Task10: Function that adds 2 integers and returns the result.
 Task11: Function that prints all natural numbers from n to 98, followed by a new line.
 Task12: Function that prints the n times table, starting with zero.
+Task 13: Program that computes and prints the sum of all the multiples of 3 and 5 bellow 1024 followed by a new line.
