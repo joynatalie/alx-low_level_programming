@@ -10,3 +10,4 @@ Task8: Function that prints every minute of the day of Jack Bauer, starting from
 Task9: Function that prints the 9 times table, starting with 0.
 Task10: Function that adds 2 integers and returns the result.
 Task11: Function that prints all natural numbers from n to 98, followed by a new line.
+Task12: Function that prints the n times table, starting with zero.
