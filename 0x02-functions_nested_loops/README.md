@@ -8,3 +8,4 @@ Task6: Function that computes the absolute value of an integer.
 Task7: Function that prints the last digit of a number.
 Task8: Function that prints every minute of the day of Jack Bauer, starting from 00:00 to 23:59.
 Task9: Function that prints the 9 times table, starting with 0.
+Task10: Function that adds 2 integers and returns the result.
