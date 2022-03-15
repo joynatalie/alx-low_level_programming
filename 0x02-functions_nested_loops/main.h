@@ -1,5 +1,5 @@
-#ifndef MAIN.H
-#define MAIN.H
+#ifndef MAIN_H
+#define MAIN_H
 
 /**
  *file: main.h
@@ -8,7 +8,7 @@
  *      used in the 0x02-functions_nested _loops directory.
  */
 
-int char P[] = "_putchar";
+int _putchar(char c);
 void print_alphabet(void);
 void print_alphabet_x10(void);
 int _islower(int c);
