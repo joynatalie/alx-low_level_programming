@@ -1,1 +1,24 @@
-0. int char P[] = "_putchar";
+#ifndef MAIN.H
+#define MAIN.H
+
+/**
+ *file: main.h
+ *Auth: Joy Natalie
+ *Desc: Header file containing prototypes for all functions
+ *      used in the 0x02-functions_nested _loops directory.
+ */
+
+int char P[] = "_putchar";
+void print_alphabet(void);
+void print_alphabet_x10(void);
+int _islower(int c);
+int _isalpha(int c);
+int print_sign(int n);
+int _abs(int);
+int print_last_digit(int);
+void jack_bauer(void);
+void times_table(void);
+int add(int, int);
+void print_to_98(int n);
+
+#endif
