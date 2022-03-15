@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include <unistd.h>
 
 /**
  *main - Prints _putchar and a new line.
@@ -8,13 +9,13 @@
 
 int main(void)
 {
-  int i;
-  char P[] = "_putchar";
+int i;
+char P[] = "_putchar";
 
-  for (i = 0; i < 9; i++)
-    {
-      putchar(P[i]);
-    }
-  putchar('\n');
-  return (0);
+for (i = 0; i < 9; i++)
+{
+putchar(P[i]);
+}
+putchar('\n');
+return (0);
 }
