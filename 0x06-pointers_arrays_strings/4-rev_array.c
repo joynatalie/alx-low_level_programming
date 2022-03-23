@@ -13,6 +13,8 @@ int i = 0;
 int j = 0;
 int *init, *final;
 int aux = 0;
+init = a;
+final = a;
 n -= 1;
 while (i < n)
 i += 1;
