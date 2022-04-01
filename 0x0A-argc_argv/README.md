@@ -1,0 +1,1 @@
+0. Program that prints its name followd by a new line.
