@@ -1,5 +1,0 @@
-#iclude "main.h"
-
-{
-  void _puts(char *s)
-    }
