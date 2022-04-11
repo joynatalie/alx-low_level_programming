@@ -1,3 +1,6 @@
+#ifndef DOG_H
+#define DOG_H
+
 /**
  * struct dog - new type of describing a dog
  * @name: name of dog
@@ -13,3 +16,4 @@ char *owner;
 
 };
  
+#endif
